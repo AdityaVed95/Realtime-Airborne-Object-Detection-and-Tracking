@@ -1,0 +1,39 @@
+In this assignment, you will implement your designed solution and present your results.
+
+You are expected to
+
+    build a working deep learning system
+    evaluate its performance using appropriate metrics, and
+    analyze the outcomes in depth.
+
+Students should compare different models or approaches, discuss strengths and limitations, and suggest improvements.  
+
+This assignment assesses your ability to
+
+    evaluate model performance
+    apply optimization strategies, and
+    communicate technical findings effectively.
+
+Please submit your presentation, including a five-minute-long video and your slides.
+
+
+
+Presentation, clarity and flow
+Presentation is well
+structured, with a clear narrative flow throughout.
+The problem, dataset and research question are effectively introduced and integrated throughout. The presentation is clear enough to allow another group to complete the project.
+
+
+Software
+quality and style
+Software is well-structured, efficient, and clearly written, following best practices in modularity, documentation, and code readability.
+Implementation is robust, scalable, and easily maintainable. Code
+demonstrates a deep understanding of software engineering principles in machine learning applications.
+
+
+Machine Learning Implementation
+Implementation is technically sophisticated and well-justified, demonstrating advanced understanding of model architecture, training pipeline, and hyperparameter tuning. Model design is clearly linked to the problem, with evidence of optimization and iterative refinement.
+
+Results
+Results are comprehensive, accurate, and deeply analyzed.
+Multiple evaluation metrics are presented with clear interpretation and critical discussion. Comparative analysis (e.g., baseline vs. improved model) is included, and limitations are thoroughly addressed. Results demonstrate significant improvements or novel insights.

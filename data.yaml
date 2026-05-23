@@ -1,0 +1,11 @@
+path: aod_dataset
+train: images/train
+val: images/valid
+test: images/test
+
+nc: 4
+names:
+  0: aeroplane
+  1: bird
+  2: drone
+  3: helicopter
