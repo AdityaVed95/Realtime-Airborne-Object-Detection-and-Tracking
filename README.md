@@ -2,6 +2,12 @@
 
 ### Description of each file : 
 
+**`AdityaVed_a1989895_Deep_Learning_Assignment2_Airborne_Object_Detection.pdf`** - Presententation Deck for Assignment 2
+
+**`a1989895_Deep_Learning_Applications_Assignment_3.pdf`** - Presententation Deck for Assignment 3
+
+**`video_explanation.txt`** - Youtube Video Link for explanation
+
 **`train.py`** — Trains a YOLO26s model on the airborne object dataset. Loads pretrained COCO weights, sets MPS (Apple Silicon) as the device, caches the dataset in RAM, and runs 100 epochs at imgsz 640 with batch size 128. Saves checkpoints every epoch to `runs/aod_big_run_2/`.
 
 **`train_resume.py`** — Resumes a previously interrupted training run from `last.pt`, restoring optimizer and epoch state, and extends training to 100 epochs with a longer early-stopping patience of 20.
